@@ -4,7 +4,7 @@ Install All pkg for termux
 
 Commands :
 
-git clone https://github.com/MrHolako/install-pkg.git
+git clone https://github.com/wnein/install-pkg-termux.git
 
 ls
 
